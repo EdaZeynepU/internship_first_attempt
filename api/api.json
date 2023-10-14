@@ -1,0 +1,29 @@
+{
+    "users":[{
+            "id":1456456,
+            "name":"jerry Seinfeld",
+            "password":"123password",
+            "email":"jer@gmail.com",
+            "avatar":"https://images.pexels.com/photos/1745762/pexels-photo-1745762.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "subscribers_country":[{"tr":50450},{"en":456},{"de":3862}],
+            "subscribers_age":[{"16-24":50450},{"25-35":456},{"36-48":3862},{"49-64":658},{"+65":257}],
+            "subscribers_":[{"16-24":50450},{"25-35":456},{"36-48":3862},{"49-64":658},{"+65":257}],
+            "views":{"views_men":[4561,4665,3508,4582],"views_women":[4561,4665,3508,4582],"views_under_age":[4561,4665,3508,4582]},
+            "subscribers_new":[45,68,155,98],
+            "monthly_sales" : {
+                "January": 456,
+                "February": 286,
+                "March": 578,
+                "April": 2342,
+                "May": 853,
+                "June": 855,
+                "July": 594,
+                "August": 547,
+                "September": 1678,
+                "October": 1453,
+                "November": 1242,
+                "December": 1125
+              }
+
+    }]       
+}

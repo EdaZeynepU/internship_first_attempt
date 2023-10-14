@@ -1,0 +1,14 @@
+.dashboard-element{
+    @apply shadow-lg h-[180px]   rounded-md bg-white/30 flex flex-col
+}
+/* min-w-[210px] */
+.dashboard-icon{
+    @apply w-[50px]
+}
+
+p,.dashboard-icon{
+    transition: 1s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+.dashboard-element:hover .dashboard-icon{
+    opacity: 0.60;
+}

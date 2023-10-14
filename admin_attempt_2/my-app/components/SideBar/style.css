@@ -1,0 +1,32 @@
+.sidebar-element {
+    @apply text-white hover:cursor-pointer;
+  }
+
+
+  
+  .avatar img {
+    object-fit: cover;
+    background-position: center;
+    @apply h-[100px] w-[100px] rounded-full mx-auto;
+  }
+  
+  .avatar , .sidebar-element:hover{
+    background: linear-gradient(90deg,rgba(185, 185, 185, 0.4),transparent);
+  }
+
+  /* .sidebar-element:hover p{
+    @apply translate-x-3
+  } */
+
+  .sidebar-element p{
+    @apply duration-1000
+  }
+
+  .active{
+    background: linear-gradient(90deg,rgba(185, 185, 185, 0.4),transparent);
+    /* @apply translate-x-3; */
+  }
+
+  .sidebar-element:hover p{
+    @apply translate-x-3
+  }
