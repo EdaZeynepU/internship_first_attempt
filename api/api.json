@@ -8,7 +8,7 @@
             "subscribers_country":[{"tr":50450},{"en":456},{"de":3862}],
             "subscribers_age":[{"16-24":50450},{"25-35":456},{"36-48":3862},{"49-64":658},{"+65":257}],
             "subscribers_":[{"16-24":50450},{"25-35":456},{"36-48":3862},{"49-64":658},{"+65":257}],
-            "views":{"views_men":[4561,4665,3508,4582],"views_women":[4561,4665,3508,4582],"views_under_age":[4561,4665,3508,4582]},
+            "views":{"views_men":[4561,4665,2508,4582],"views_women":[461,6786,4994,3472],"views_under_age":[4561,4777,3508,5582]},
             "subscribers_new":[45,68,155,98],
             "monthly_sales" : {
                 "January": 456,
@@ -23,6 +23,20 @@
                 "October": 1453,
                 "November": 1242,
                 "December": 1125
+              },
+              "monthly_return" : {
+                "January": 56,
+                "February": 26,
+                "March": 8,
+                "April": 42,
+                "May": 53,
+                "June": 5,
+                "July": 54,
+                "August": 47,
+                "September": 16,
+                "October": 14,
+                "November": 24,
+                "December": 25
               }
 
     }]       
